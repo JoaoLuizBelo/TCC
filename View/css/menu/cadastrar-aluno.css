@@ -1,0 +1,43 @@
+/* Isto é necessário para não haver rolagens horizontais quando movermos os elementos */
+
+.oresp {
+    display: none;
+    border: 2px groove #7F4031 !important;
+    padding: 1.4em 1.4em 1.4em 1.4em !important;
+    margin: 4em 1.4em 1.5em 0 !important;
+    -webkit-box-shadow: 0px 0px 0px 0px #002640;
+    box-shadow: 0px 0px 0px 0px #002640;
+}
+#pai {
+    border: 2px groove #006EBA !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 4em 1.4em 1.5em 0 !important;
+    -webkit-box-shadow: 0px 0px 0px 0px #002640;
+    box-shadow: 0px 0px 0px 0px #002640;
+}
+#Mae {
+    border: 2px groove #BF1324 !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 4em 1.4em 1.5em 0 !important;
+    -webkit-box-shadow: 0px 0px 0px 0px #002640;
+    box-shadow: 0px 0px 0px 0px #002640;
+}
+.col-sm-6 {
+    text-align: center;
+}
+.col-sm-4 {
+    text-align: center;
+    align-content: center;
+}
+.col-sm-3 {
+    text-align: center;
+
+}
+.contato {
+    text-align: center;
+}
+@media(max-width:767px) {
+    #aa {
+        position: relative;
+    }
+}

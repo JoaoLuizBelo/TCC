@@ -1,0 +1,26 @@
+#tabela {
+    margin: 0 4em 1.5em 4em !important;
+}
+.teste {
+    width: 30%;
+    float: right;
+}
+.left {
+    width: 70%;
+    float: left;
+}
+#icon-pencil {
+    font-size: 0.6em !important;
+    line-height: .75em;
+    vertical-align: -15%
+}
+thead {
+    background: #5CB9DE;
+}
+th {
+    color: white;
+    text-align: center !important;
+}
+td {
+    text-align: center;
+}

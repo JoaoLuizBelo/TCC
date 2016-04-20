@@ -1,0 +1,45 @@
+fieldset.scheduler-border {
+    border: 3px dotted #5CB9DE !important;
+    padding: 1.4em !important;
+    margin: 5em 1.4em 1.5em 4em !important;
+    -webkit-box-shadow: 0px 0px 0px 0px #000;
+    box-shadow: 0px 0px 0px 0px #000;
+}
+legend.scheduler-border {
+    color: #5CB9DE;
+    font-size: 1.8em !important;
+    font-weight: bold !important;
+    text-align: left !important;
+    width: auto;
+    padding: 0 10px;
+    border-bottom: none;
+}
+.input-group {
+    margin-left: 120px !important;
+    margin-bottom: 20px !important
+}
+#tabela {
+    margin: 0 4em 1.5em 4em !important;
+}
+.teste {
+    width: 30%;
+    float: right;
+}
+.left {
+    width: 70%;
+}
+#icon-pencil {
+    font-size: 0.6em !important;
+    line-height: .75em;
+    vertical-align: -15%
+}
+thead {
+    background: #5CB9DE;
+}
+th {
+    color: white;
+    text-align: center !important;
+}
+td {
+    text-align: center;
+}

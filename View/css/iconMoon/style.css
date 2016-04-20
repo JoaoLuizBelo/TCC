@@ -1,0 +1,102 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('fonts/icomoon.eot?9plgvz');
+    src:    url('fonts/icomoon.eot?9plgvz#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?9plgvz') format('truetype'),
+        url('fonts/icomoon.woff?9plgvz') format('woff'),
+        url('fonts/icomoon.svg?9plgvz#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-menu-card:before {
+    content: "\e908";
+}
+.icon-individual:before {
+    content: "\e90a";
+}
+.icon-indiv:before {
+    content: "\e909";
+}
+.icon-aluno:before {
+    content: "\e900";
+}
+.icon-atividades:before {
+    content: "\e901";
+}
+.icon-cadastrar:before {
+    content: "\e902";
+}
+.icon-card-coletivo:before {
+    content: "\e903";
+}
+.icon-comunicacao:before {
+    content: "\e905";
+}
+.icon-dados-cadastrais:before {
+    content: "\e906";
+}
+.icon-frequencia:before {
+    content: "\e90c";
+}
+.icon-funcionario:before {
+    content: "\e90d";
+}
+.icon-home:before {
+    content: "\e90e";
+}
+.icon-mantimentos:before {
+    content: "\e90f";
+}
+.icon-minha-conta:before {
+    content: "\e910";
+}
+.icon-relatrio:before {
+    content: "\e911";
+}
+.icon-respons:before {
+    content: "\e915";
+}
+.icon-sair:before {
+    content: "\e916";
+}
+.icon-turma:before {
+    content: "\e917";
+}
+.icon-pencil:before {
+    content: "\e904";
+}
+.icon-bullhorn:before {
+    content: "\e918";
+}
+.icon-bubbles:before {
+    content: "\e919";
+}
+.icon-binoculars:before {
+    content: "\e91a";
+}
+.icon-lock:before {
+    content: "\e91b";
+}
+.icon-spoon-knife:before {
+    content: "\e907";
+}
+.icon-bin2:before {
+    content: "\e90b";
+}
+
